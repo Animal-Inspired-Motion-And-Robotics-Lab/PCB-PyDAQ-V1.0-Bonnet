@@ -17,7 +17,39 @@ This board turns your Raspberry Pi into a prototyping powerhouse!  Now your Rasp
 
 ## Pinout
 
-Coming soon
+
+### JP1 Connector Pinout <br/> <br/>
+
+<img src="Photos/Pin.png?raw=true" width="500px"><br/> <br/>
+
+| Pin | Signal
+| --- | --- |
+|1	|GND|
+|2	|RXD 
+|3	|+3.3V 
+|4	|TXD | 
+|5	|PWM0
+|6	|PWM1
+|7	|PWM2
+|8	|PWM3
+|9	|DAC0
+|10	|DAC1
+|11	|DAC2
+|12	|DAC3
+|13	|GPIO17
+|14	|GPIO18
+|15	|GND
+|16	|GPIO22
+|17	|SDA
+|18	|SCL
+|19	|+3.3V
+|20	|ADC2
+|21	|ADC3
+|22	|ADC4
+|23	|SPI_MOSI
+|24	|DC5
+|25	|SPI_SCLK
+|26	|SPI_MISO
 
 
 ### License
