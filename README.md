@@ -17,7 +17,6 @@ This board turns your Raspberry Pi into a prototyping powerhouse!  Now your Rasp
 
 ## Pinout
 
-
 ### JP1 Connector Pinout <br/> <br/>
 
 <img src="Photos/Pin.png?raw=true" width="500px"><br/> <br/>
@@ -51,8 +50,6 @@ This board turns your Raspberry Pi into a prototyping powerhouse!  Now your Rasp
 |25	|SPI_SCLK
 |26	|SPI_MISO
 
-
-### License
+## License
 
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. 
-See license.txt for additional details.
