@@ -1,0 +1,14 @@
+Importer Log Report
+Project : Proto-Pi.Library.PrjPcb
+
+Section : Analyze Document - C:\Users\parke\Documents\GitHub\Proto-Pi-Board\Design_Files\Proto-Pi.lbr
+    Analyzing data of C:\Users\parke\Documents\GitHub\Proto-Pi-Board\Design_Files\Proto-Pi.lbr
+    Load settings
+    Load layers 182
+    Load library
+    Load Library library
+    Load Library ""
+    Load Packages 27
+    Load Symbols 9
+    Load DeviceSets 8
+EndSection
