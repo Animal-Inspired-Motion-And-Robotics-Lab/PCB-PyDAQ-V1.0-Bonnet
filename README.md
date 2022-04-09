@@ -50,6 +50,14 @@ This board turns your Raspberry Pi into a prototyping powerhouse!  Now your Rasp
 |25	|SPI_SCLK
 |26	|SPI_MISO
 
+## Python Drivers <br/> <br/>
+
+The Proto-Pi board uses Python based drivers to control the ADC, DAC and PWM integrated circuits.  Make sure to install the Adafruit CircuitPython, and required dependencies [(instructions)](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi) before installing the following drivers: 
+
+- [MCP4725](https://github.com/adafruit/Adafruit_CircuitPython_MCP4725) (12-bit, Quad DAC)
+- [MCP3008](https://pypi.org/project/adafruit-circuitpython-mcp3xxx/ )  (10-bit, 8-Channel ADC )
+- [PCA9685](https://github.com/adafruit/Adafruit_CircuitPython_PCA9685) (12-bit, 16-Channel PWM)
+
 ## License
 
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. 
