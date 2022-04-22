@@ -58,6 +58,13 @@ The Proto-Pi board uses Python based drivers to control the ADC, DAC and PWM int
 - [MCP3008](https://pypi.org/project/adafruit-circuitpython-mcp3xxx/ )  (10-bit, 8-Channel ADC )
 - [PCA9685](https://github.com/adafruit/Adafruit_CircuitPython_PCA9685) (12-bit, 16-Channel PWM)
 
+## Datasheets!
+
+- [MCP4728](http://ww1.microchip.com/downloads/en/devicedoc/22187e.pdf) (12-bit, Quad DAC)
+- [MCP3008](https://ww1.microchip.com/downloads/en/DeviceDoc/21295d.pdf)  (10-bit, 8-Channel ADC )
+- [PCA9685](https://www.nxp.com/docs/en/data-sheet/PCA9685.pdf) (12-bit, 16-Channel PWM)
+
+
 ## License
 
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. 
