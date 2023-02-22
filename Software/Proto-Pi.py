@@ -24,7 +24,7 @@ i2c_bus = busio.I2C(SCL, SDA)
 ## Create the SPI bus interface
 spi = busio.SPI(clock=board.SCK, MISO=board.MISO, MOSI=board.MOSI)
 # set chip select to 
-cs = digitalio.DigitalInOut(board.CE0) 
+cs = digitalio.DigitalInOut(board.D5) 
 
 ## Setup and configure PWM IC (PCA9685)
 pwm = PCA9685(i2c_bus)
@@ -48,9 +48,9 @@ adc3 = AnalogIn(adc, MCP.P3)
 pwm.channels[5].duty_cycle = 0xF000
 
 # set DAC outputs and saves settings
-dac.channel_a.value = 65535 # Voltage = VDD
-dac.channel_b.value = int(65535/2) # VDD/2
-dac.channel_c.value = int(65535/4) # VDD/4
+dac.channel_a.value = 0#65535 # Voltage = VDD
+dac.channel_b.value = 0#int(65535/2) # VDD/2
+dac.channel_c.value = 0 # VDD/4
 dac.channel_d.value = 0 # 0V
 
 # read from ADC 
