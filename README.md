@@ -46,7 +46,7 @@ This board turns your Raspberry Pi into a prototyping powerhouse!  Now your Rasp
 |21	|ADC3
 |22	|ADC4
 |23	|SPI_MOSI
-|24	|DC5
+|24	|ADC5
 |25	|SPI_SCLK
 |26	|SPI_MISO
 
