@@ -1,4 +1,4 @@
-# Raspberry Pi Data Conversion Hat (ADC, DAC, PWM)
+# Raspberry Pi Data Conversion Board (ADC, DAC, PWM)
 
 <img src="Photos/Proto-Pi-Board-Top.png?raw=true" width="500px"><br/>
 <img src="Photos/Proto-Pi-Board-Bottom.png?raw=true" width="500px"><br/>
