@@ -5,7 +5,7 @@
 
 ## Description
 
-This board turns your Raspberry Pi into a prototyping powerhouse!  Now your Raspberry Pi can both read and generate analog voltages, in addition to driving PWM waveforms all using existing Python libraries!  
+This board turns your Raspberry Pi into a prototyping powerhouse!  Now your Raspberry Pi can both read and generate analog voltages, in addition to driving PWM waveforms all using existing Python libraries! This repository includes all design files needed to immediately order and assemble the board or make further modifications!
 
 ## Features
 
