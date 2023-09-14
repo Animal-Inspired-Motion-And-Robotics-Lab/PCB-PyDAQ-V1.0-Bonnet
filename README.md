@@ -67,6 +67,6 @@ The Proto-Pi board uses Python based drivers to control the ADC, DAC and PWM int
 
 ## License
 
-The original board shape and connector pinout was based on the amazing [Adafruit Prototype Bonnet](https://www.nxp.com/docs/en/data-sheet/PCA9685.pdf). Thanks Adafruit!
+The original board shape and connector pinout was based on the amazing [Adafruit Prototype Bonnet](https://www.adafruit.com/product/3203). Thanks Adafruit!
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
